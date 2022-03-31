@@ -1,2 +1,5 @@
 # vscode configuration
 .vscode
+
+# virtual env
+.pvenv
