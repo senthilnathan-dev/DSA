@@ -3,3 +3,6 @@
 
 # virtual env
 .pvenv
+
+# pycache files
+*/__pycache__
