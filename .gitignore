@@ -5,4 +5,6 @@
 .pvenv
 
 # pycache files
-*/__pycache__
+*/DS/__pycache__
+*/Test/__pycache__
+
