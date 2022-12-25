@@ -10,7 +10,13 @@
 
 ## Purpose
 
-Hi there this is my first ever try to learn data structure on my own to create a awesome repository filled with useful programs
+The purpose of this repository is to learn Data Structures and Algorithms
+
+## Python Programming language
+
+All the data structures used here is written in `python` Programming language
+
+## Datastructures
 
 _Source to my learning pace is:_ ['GeeksforGeeks'][1]
 

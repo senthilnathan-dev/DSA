@@ -1,10 +1,6 @@
 # vscode configuration
 .vscode
 
-# virtual env
-.pvenv
-
 # pycache files
 */DS/__pycache__
-*/Test/__pycache__
 
